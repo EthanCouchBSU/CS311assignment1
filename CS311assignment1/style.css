@@ -1,0 +1,28 @@
+body{
+    background-color: blanchedalmond;
+    font-family: fantasy;
+}
+#introText{
+    font-family: sans-serif;
+    margin-right: 300px;
+    margin-left: 100px;
+
+    padding-top: 50px;
+    
+
+
+    color: crimson;
+}
+.Bseries{
+    margin-left: 300px;
+}
+h3{
+    margin-left: 200px;
+}
+.mainPageLink{
+    margin-left: 300px;
+}
+#thousandSpace{
+    
+    padding-bottom: 1000px;
+}
